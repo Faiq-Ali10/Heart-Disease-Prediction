@@ -24,4 +24,4 @@ The dataset used in this project (`heart.csv`) contains information about patien
 To run this project locally, follow these steps:
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Faiq-Ali10
+   git clone https://github.com/Faiq-Ali10/Heart-Disease-Prediction
